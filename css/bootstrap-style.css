@@ -1,0 +1,9 @@
+/*  переназначаем стили для классов bootstrap*/
+.btn-primary {
+	background-color: #0AF311;
+	border-color: #0AF311;
+}
+.btn-primary:hover {
+	background-color: #068E0A;
+	border-color: #068E0A;
+}
